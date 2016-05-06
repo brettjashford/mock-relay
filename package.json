@@ -1,6 +1,6 @@
 {
   "name": "mock-relay",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "mock module for relay",
   "main": "dist/mockRelay.js",
   "scripts": {
